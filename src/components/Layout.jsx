@@ -13,57 +13,57 @@ import { ThemeSelector } from '@/components/ThemeSelector'
 
 const navigation = [
   {
-    title: 'Introduction',
+    title: '简介',
     links: [
-      { title: 'Getting started', href: '/' },
-      { title: 'Installation', href: '/docs/installation' },
+      { title: '入门指南', href: '/' },
+      { title: '安装指南', href: '/docs/installation' },
     ],
   },
   {
-    title: 'Core concepts',
+    title: '基本概念',
     links: [
-      { title: 'Understanding caching', href: '/docs/understanding-caching' },
+      { title: '理解缓存机制', href: '/docs/understanding-caching' },
       {
-        title: 'Predicting user behavior',
+        title: '预测用户行为',
         href: '/docs/predicting-user-behavior',
       },
-      { title: 'Basics of time-travel', href: '/docs/basics-of-time-travel' },
+      { title: '时间旅行的基础知识', href: '/docs/basics-of-time-travel' },
       {
-        title: 'Introduction to string theory',
+        title: '字符串基础介绍',
         href: '/docs/introduction-to-string-theory',
       },
-      { title: 'The butterfly effect', href: '/docs/the-butterfly-effect' },
+      { title: '蝴蝶效应', href: '/docs/the-butterfly-effect' },
     ],
   },
   {
-    title: 'Advanced guides',
+    title: '高级指南',
     links: [
-      { title: 'Writing plugins', href: '/docs/writing-plugins' },
-      { title: 'Neuralink integration', href: '/docs/neuralink-integration' },
-      { title: 'Temporal paradoxes', href: '/docs/temporal-paradoxes' },
-      { title: 'Testing', href: '/docs/testing' },
-      { title: 'Compile-time caching', href: '/docs/compile-time-caching' },
+      { title: '编写插件', href: '/docs/writing-plugins' },
+      { title: 'Neuralink 整合', href: '/docs/neuralink-integration' },
+      { title: '时间 悖论', href: '/docs/temporal-paradoxes' },
+      { title: '测试', href: '/docs/testing' },
+      { title: '编译-时刻 缓存', href: '/docs/compile-time-caching' },
       {
-        title: 'Predictive data generation',
+        title: '预测性数据生成',
         href: '/docs/predictive-data-generation',
       },
     ],
   },
   {
-    title: 'API reference',
+    title: 'API 参考文档',
     links: [
-      { title: 'CacheAdvance.predict()', href: '/docs/cacheadvance-predict' },
-      { title: 'CacheAdvance.flush()', href: '/docs/cacheadvance-flush' },
-      { title: 'CacheAdvance.revert()', href: '/docs/cacheadvance-revert' },
+      { title: 'CacheAdvance.预测()', href: '/docs/cacheadvance-predict' },
+      { title: 'CacheAdvance.清空()', href: '/docs/cacheadvance-flush' },
+      { title: 'CacheAdvance.撤销()', href: '/docs/cacheadvance-revert' },
       { title: 'CacheAdvance.regret()', href: '/docs/cacheadvance-regret' },
     ],
   },
   {
-    title: 'Contributing',
+    title: '开源项目贡献',
     links: [
-      { title: 'How to contribute', href: '/docs/how-to-contribute' },
-      { title: 'Architecture guide', href: '/docs/architecture-guide' },
-      { title: 'Design principles', href: '/docs/design-principles' },
+      { title: '如何开源', href: '/docs/how-to-contribute' },
+      { title: '软件架构 指南', href: '/docs/architecture-guide' },
+      { title: '设计 原则', href: '/docs/design-principles' },
     ],
   },
 ]
@@ -113,9 +113,7 @@ function Header({ navigation }) {
       </div>
       <div className="relative flex basis-0 justify-end gap-6 sm:gap-8 md:flex-grow">
         <ThemeSelector className="relative z-10" />
-        <Link href="https://github.com" className="group" aria-label="GitHub">
-          <GitHubIcon className="h-6 w-6 fill-slate-400 group-hover:fill-slate-500 dark:group-hover:fill-slate-300" />
-        </Link>
+       
       </div>
     </header>
   )

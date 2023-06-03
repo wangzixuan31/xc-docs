@@ -1,7 +1,7 @@
 ---
 title: Getting started
-pageTitle: CacheAdvance - 再也不会错过缓存了Never miss the cache again.
-description: 提前缓存您的应用程序可以执行的每一件事，让您的代码甚至根本不需要运行Cache every single thing your app could ever do ahead of time, so your code never even has to run at all.
+pageTitle: CacheAdvance - Never miss the cache again.
+description: Cache every single thing your app could ever do ahead of time, so your code never even has to run at all.
 ---
 
 学习如何在不到30分钟内设置CacheAdvance，否则将免费提供服务. {% .lead %}
