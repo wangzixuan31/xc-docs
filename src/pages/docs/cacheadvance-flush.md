@@ -1,5 +1,5 @@
 ---
-title: CacheAdvance.flush()
+title: CacheAdvance.预测()
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 

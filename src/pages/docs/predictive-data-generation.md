@@ -1,5 +1,5 @@
 ---
-title: Predictive data generation
+title: 预测性数据生成
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 

@@ -27,7 +27,7 @@ const navigation = [
         title: '预测用户行为',
         href: '/docs/predicting-user-behavior',
       },
-      { title: '时间旅行的基础知识', href: '/docs/basics-of-time-travel' },
+      { title: '时空变化的基础知识', href: '/docs/basics-of-time-travel' },
       {
         title: '字符串基础介绍',
         href: '/docs/introduction-to-string-theory',
@@ -42,7 +42,7 @@ const navigation = [
       { title: 'Neuralink 整合', href: '/docs/neuralink-integration' },
       { title: '时间 悖论', href: '/docs/temporal-paradoxes' },
       { title: '测试', href: '/docs/testing' },
-      { title: '编译-时刻 缓存', href: '/docs/compile-time-caching' },
+      { title: '编译时缓存', href: '/docs/compile-time-caching' },
       {
         title: '预测性数据生成',
         href: '/docs/predictive-data-generation',
@@ -62,8 +62,8 @@ const navigation = [
     title: '开源项目贡献',
     links: [
       { title: '如何开源', href: '/docs/how-to-contribute' },
-      { title: '软件架构 指南', href: '/docs/architecture-guide' },
-      { title: '设计 原则', href: '/docs/design-principles' },
+      { title: '架构指南', href: '/docs/architecture-guide' },
+      { title: '设计原则', href: '/docs/design-principles' },
     ],
   },
 ]

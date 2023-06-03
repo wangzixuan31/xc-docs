@@ -1,5 +1,5 @@
 ---
-title: Writing plugins
+title: 编写插件
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 

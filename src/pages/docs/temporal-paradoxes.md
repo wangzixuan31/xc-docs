@@ -1,5 +1,5 @@
 ---
-title: Temporal paradoxes
+title: 时间悖论
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 

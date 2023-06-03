@@ -1,5 +1,5 @@
 ---
-title: Architecture guide
+title: 架构指南
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Understanding caching
+title: 理解缓存机制
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 

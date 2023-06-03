@@ -3,9 +3,9 @@ import { Listbox } from '@headlessui/react'
 import clsx from 'clsx'
 
 const themes = [
-  { name: 'Light', value: 'light', icon: LightIcon },
-  { name: 'Dark', value: 'dark', icon: DarkIcon },
-  { name: 'System', value: 'system', icon: SystemIcon },
+  { name: '白昼', value: 'light', icon: LightIcon },
+  { name: '暗夜', value: 'dark', icon: DarkIcon },
+  { name: '系统', value: 'system', icon: SystemIcon },
 ]
 
 function LightIcon(props) {

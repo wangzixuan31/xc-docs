@@ -1,5 +1,5 @@
 ---
-title: Introdution to string theory
+title: 字符串介绍
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Design principles
+title: 设计原则
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 

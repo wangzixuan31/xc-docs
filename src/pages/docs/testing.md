@@ -1,5 +1,21 @@
+<!--
+ * @Author: wangzixuan31 2916492020@qq.com
+ * @Date: 2023-05-19 19:07:27
+ * @LastEditors: wangzixuan31 2916492020@qq.com
+ * @LastEditTime: 2023-06-02 20:41:25
+ * @FilePath: \xc-docs\src\pages\docs\testing.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
+<!--
+ * @Author: wangzixuan31 2916492020@qq.com
+ * @Date: 2023-05-19 19:07:27
+ * @LastEditors: wangzixuan31 2916492020@qq.com
+ * @LastEditTime: 2023-06-02 20:37:33
+ * @FilePath: \xc-docs\src\pages\docs\testing.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 ---
-title: Testing
+title: 测试
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 

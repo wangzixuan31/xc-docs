@@ -1,5 +1,5 @@
 ---
-title: Basics of time-travel
+title: 时空变化的基础知识
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 

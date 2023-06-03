@@ -1,5 +1,5 @@
 ---
-title: CacheAdvance.revert()
+title: CacheAdvance.撤销()
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: How to contribute
+title: 如何贡献代码
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 

@@ -1,31 +1,31 @@
-# Syntax
+# 语法
 
 Syntax is a [Tailwind UI](https://tailwindui.com) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
 
-## Getting started
+## 开始使用
 
-To get started with this template, first install the npm dependencies:
+要开始使用这个模板，首先需要安装 npm 依赖项:
 
 ```bash
 npm install
 cp .env.example .env.local
 ```
 
-Next, run the development server:
+然后, 运行开发者服务:
 
 ```bash
 npm run dev
 ```
 
-Finally, open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
+最后, 打开 [http://localhost:3000](http://localhost:3000) 在你的浏览器打开网页.
 
-## Customizing
+## 个性化
 
-You can start editing this template by modifying the files in the `/src` folder. The site will auto-update as you edit these files.
+你可以通过修改 /src 文件夹中的文件来开始编辑此模板。当你编辑这些文件时，网站将自动更新.
 
 ## Global search
 
-By default this template uses [Algolia DocSearch](https://docsearch.algolia.com) for the global search. DocSearch is free for open-source projects, and you can sign up for an account on their website. Once your DocSearch account is ready, update the following [environment variables](https://nextjs.org/docs/basic-features/environment-variables) in your project with the values provided by Algolia:
+默认情况下，此模板使用 [Algolia DocSearch](https://docsearch.algolia.com) 进行全局搜索. DocSearch 对于开源项目是免费的, 您可以在他们的网站上注册账户. 一旦您的 DocSearch 账户准备好了, 使用 Algolia 提供的值更新项目中的以下 [environment variables](https://nextjs.org/docs/basic-features/environment-variables)
 
 ```
 NEXT_PUBLIC_DOCSEARCH_APP_ID=
@@ -33,16 +33,16 @@ NEXT_PUBLIC_DOCSEARCH_API_KEY=
 NEXT_PUBLIC_DOCSEARCH_INDEX_NAME=
 ```
 
-## License
+## 许可证
 
-This site template is a commercial product and is licensed under the [Tailwind UI license](https://tailwindui.com/license).
+这个网站模板是一款商业产品，根据 [Tailwind UI license](https://tailwindui.com/license) 授权使用.
 
-## Learn more
+## 学习更多
 
-To learn more about the technologies used in this site template, see the following resources:
+要了解更多关于此网站模板中使用的技术，请参阅以下资源：
 
-- [Tailwind CSS](https://tailwindcss.com/docs) - the official Tailwind CSS documentation
-- [Next.js](https://nextjs.org/docs) - the official Next.js documentation
-- [Headless UI](https://headlessui.dev) - the official Headless UI documentation
-- [Markdoc](https://markdoc.io) - the official Markdoc documentation
-- [DocSearch](https://docsearch.algolia.com) - the official DocSearch documentation
+- [Tailwind CSS](https://tailwindcss.com/docs) - Tailwind CSS 的官方文档。
+- [Next.js](https://nextjs.org/docs) - Next.js 官方文档
+- [Headless UI](https://headlessui.dev) - Headless UI 的官方文档。
+- [Markdoc](https://markdoc.io) - Markdoc 的官方文档
+- [DocSearch](https://docsearch.algolia.com) - DocSearch 的官方文档

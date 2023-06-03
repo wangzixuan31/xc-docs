@@ -1,6 +1,6 @@
 ---
-title: Getting started
-pageTitle: CacheAdvance - Never miss the cache again.
+title: 开始使用
+pageTitle: CacheAdvance - 再也不会错过缓存.
 description: Cache every single thing your app could ever do ahead of time, so your code never even has to run at all.
 ---
 
