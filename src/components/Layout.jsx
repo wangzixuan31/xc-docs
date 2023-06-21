@@ -16,7 +16,7 @@ const navigation = [
     title: '简介',
     links: [
       { title: '入门指南', href: '/' },
-      { title: '安装指南', href: '/docs/installation' },
+      { title: '星辰书屋总管理办法', href: '/docs/installation' },
     ],
   },
   {
