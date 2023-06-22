@@ -13,7 +13,7 @@ import { ThemeSelector } from '@/components/ThemeSelector'
 
 const navigation = [
   {
-    title: '简介',
+    title: '介绍',
     links: [
       { title: '入门指南', href: '/' },
       { title: '星辰书屋总管理办法', href: '/docs/installation' },
