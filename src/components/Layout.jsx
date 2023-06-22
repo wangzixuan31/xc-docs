@@ -16,7 +16,23 @@ const navigation = [
     title: '介绍',
     links: [
       { title: '入门指南', href: '/' },
-      { title: '星辰书屋总管理办法', href: '/docs/installation' },
+      { title: '简介', href: '/docs/installation' },
+    ],
+  },
+  {
+    title: '星辰书屋总管理办法',
+    links: [
+      { title: '第一章 总则', href: '/docs/1general' },
+      {
+        title: '第二章 读者准入',
+        href: '/docs/2readers-join',
+      },
+      { title: '第三章 读者权限和积分规则', href: '/docs/3reader-right-rules' },
+      {
+        title: '第四章 读者退出机制',
+        href: '/docs/4reader-leaves',
+      },
+      { title: '第五章 附则', href: '/docs/5supplement' },
     ],
   },
   {
